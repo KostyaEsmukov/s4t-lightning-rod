@@ -1,5 +1,16 @@
 {
     "env": {
         "mocha": true
+    },
+    "rules": {
+        "dot-notation": [
+            "off"
+        ],
+        "curly": [
+            "off"
+        ],
+        "max-nested-callbacks": [
+            "off"
+        ]
     }
 }
